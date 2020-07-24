@@ -1,7 +1,7 @@
 new hoverEffect({
     parent: document.querySelector('.distortion'),
     intensity: 0.2,
-    image1: './1.jpg',
-    image2: './1.jpg',
+    image1: './icecreamgrey.png',
+    image2: './icecream.jpg',
     displacementImage: './dis.png'
 });
